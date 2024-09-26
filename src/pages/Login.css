@@ -1,0 +1,30 @@
+/* src/pages/Login.css */
+.login-container {
+    width: 300px;
+    margin: 70px auto;
+    padding: 100px;
+    background-color: 10px 20px 10px rgba(17, 217, 64, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  
+  button {
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #007BFF;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  /* src/pages/Signup.css */
+  
